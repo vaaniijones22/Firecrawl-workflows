@@ -1,0 +1,14 @@
+{
+  "name": "firecrawl-workflows",
+  "owner": {
+    "name": "Firecrawl",
+    "email": "support@firecrawl.dev"
+  },
+  "plugins": [
+    {
+      "name": "firecrawl-workflows",
+      "source": "./",
+      "description": "Outcome-focused Firecrawl workflow skills for research, SEO audits, QA, knowledge bases, lead lists, dashboard reporting, shopping, and design-system extraction."
+    }
+  ]
+}
